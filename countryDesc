@@ -1,0 +1,1761 @@
+{
+  "status": {
+    "code": 1000,
+    "header": "",
+    "description": "สำเร็จ"
+  },
+  "data": {
+    "items": [
+      {
+        "countryCode": "AD",
+        "countryDescTh": "อันดอร์รา",
+        "countryDescEn": "ANDORRA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AE",
+        "countryDescTh": "สหรัฐอาหรับเอมิเรตส์",
+        "countryDescEn": "UNITED ARAB EMIRATES",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AF",
+        "countryDescTh": "อัฟกานิสถาน",
+        "countryDescEn": "AFGHANISTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AG",
+        "countryDescTh": "แอนติกาและบาร์บูดา",
+        "countryDescEn": "ANTIGUA AND BARBUDA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AI",
+        "countryDescTh": "แองกลิวลา",
+        "countryDescEn": "ANGUILLA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AL",
+        "countryDescTh": "แอลเบเนีย",
+        "countryDescEn": "ALBANIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AM",
+        "countryDescTh": "อาร์เมเนีย",
+        "countryDescEn": "ARMENIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AO",
+        "countryDescTh": "แองโกลา",
+        "countryDescEn": "ANGOLA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AQ",
+        "countryDescTh": "แอนตาร์กติกา",
+        "countryDescEn": "ANTARCTICA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AR",
+        "countryDescTh": "อาร์เจนตินา",
+        "countryDescEn": "ARGENTINA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AS",
+        "countryDescTh": "อเมริกันซามัว",
+        "countryDescEn": "AMERICAN SAMOA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AT",
+        "countryDescTh": "ออสเตรีย",
+        "countryDescEn": "AUSTRIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AU",
+        "countryDescTh": "ออสเตรเลีย",
+        "countryDescEn": "AUSTRALIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AW",
+        "countryDescTh": "อารูบา",
+        "countryDescEn": "ARUBA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "AX",
+        "countryDescTh": "หมู่เกาะอะแลนด์",
+        "countryDescEn": "ALAND ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "AZ",
+        "countryDescTh": "อาเซอร์ไบจาน",
+        "countryDescEn": "AZERBAIJAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BA",
+        "countryDescTh": "บอสเนียและเฮอร์เซโกวีนา",
+        "countryDescEn": "BOSNIA AND HERZEGOVINA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BB",
+        "countryDescTh": "บาร์เบโดส",
+        "countryDescEn": "BARBADOS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BD",
+        "countryDescTh": "บังกลาเทศ",
+        "countryDescEn": "BANGLADESH",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BE",
+        "countryDescTh": "เบลเยียม",
+        "countryDescEn": "BELGIUM",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BF",
+        "countryDescTh": "บูร์กินาฟาโซ",
+        "countryDescEn": "BURKINA FASO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BG",
+        "countryDescTh": "บัลแกเรีย",
+        "countryDescEn": "BULGARIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BH",
+        "countryDescTh": "บาห์เรน",
+        "countryDescEn": "BAHRAIN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BI",
+        "countryDescTh": "บุรุนดี",
+        "countryDescEn": "BURUNDI",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BJ",
+        "countryDescTh": "เบนิน",
+        "countryDescEn": "BENIN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BL",
+        "countryDescTh": "เซนต์บาร์เธเลมี",
+        "countryDescEn": "SAINT BARTHELEMY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "BM",
+        "countryDescTh": "เบอร์มิวดา",
+        "countryDescEn": "BERMUDA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BN",
+        "countryDescTh": "บรูไนดารุสซาลาม",
+        "countryDescEn": "BRUNEI DARUSSALAM",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BO",
+        "countryDescTh": "รัฐพหุชนชาติแห่งโบลิเวีย",
+        "countryDescEn": "BOLIVIA, PLURINATIONAL STATE OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BQ",
+        "countryDescTh": "โบแนร์ ซินท์เอิสทาทิอุส และ ซาบา",
+        "countryDescEn": "BONAIRE, SINT EUSTATIUS AND SABA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "BR",
+        "countryDescTh": "บราซิล",
+        "countryDescEn": "BRAZIL",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BS",
+        "countryDescTh": "บาฮามาส",
+        "countryDescEn": "BAHAMAS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BT",
+        "countryDescTh": "ภูฏาน",
+        "countryDescEn": "BHUTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BV",
+        "countryDescTh": "โบเวทไอแลนด์",
+        "countryDescEn": "BOUVET ISLAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BW",
+        "countryDescTh": "บอตสวานา",
+        "countryDescEn": "BOTSWANA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BY",
+        "countryDescTh": "เบลารุส",
+        "countryDescEn": "BELARUS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "BZ",
+        "countryDescTh": "เบลีซ",
+        "countryDescEn": "BELIZE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CA",
+        "countryDescTh": "แคนาดา",
+        "countryDescEn": "CANADA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CC",
+        "countryDescTh": "หมู่เกาะโคโคส, หมู่เกาะคีลิง",
+        "countryDescEn": "COCOS (KEELING) ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CD",
+        "countryDescTh": "คองโก",
+        "countryDescEn": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CF",
+        "countryDescTh": "สาธารณรัฐแอฟริกากลาง",
+        "countryDescEn": "CENTRAL AFRICAN REPUBLIC",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CG",
+        "countryDescTh": "สาธารณรัฐคองโก",
+        "countryDescEn": "CONGO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CH",
+        "countryDescTh": "สวิตเซอร์แลนด์",
+        "countryDescEn": "SWITZERLAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CI",
+        "countryDescTh": "โกตดิวัวร์",
+        "countryDescEn": "COTE D IVOIRE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CK",
+        "countryDescTh": "หมู่เกาะคุก",
+        "countryDescEn": "COOK ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CL",
+        "countryDescTh": "ชิลี",
+        "countryDescEn": "CHILE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CM",
+        "countryDescTh": "แคเมอรูน",
+        "countryDescEn": "CAMEROON",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CN",
+        "countryDescTh": "จีน",
+        "countryDescEn": "CHINA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CO",
+        "countryDescTh": "โคลอมเบีย",
+        "countryDescEn": "COLOMBIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CR",
+        "countryDescTh": "คอสตาริกา",
+        "countryDescEn": "COSTA RICA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CU",
+        "countryDescTh": "คิวบา",
+        "countryDescEn": "CUBA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CV",
+        "countryDescTh": "เคปเวิร์ด",
+        "countryDescEn": "CAPE VERDE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CW",
+        "countryDescTh": "คูราเซา",
+        "countryDescEn": "CURACAO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "CX",
+        "countryDescTh": "เกาะคริสต์มาส",
+        "countryDescEn": "CHRISTMAS ISLAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CY",
+        "countryDescTh": "ไซปรัส",
+        "countryDescEn": "CYPRUS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "CZ",
+        "countryDescTh": "สาธารณรัฐเช็ก",
+        "countryDescEn": "CZECH REPUBLIC",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "DE",
+        "countryDescTh": "เยอรมนี",
+        "countryDescEn": "GERMANY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "DJ",
+        "countryDescTh": "จิบูตี",
+        "countryDescEn": "DJIBOUTI",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "DK",
+        "countryDescTh": "เดนมาร์ก",
+        "countryDescEn": "DENMARK",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "DM",
+        "countryDescTh": "โดมินิกา",
+        "countryDescEn": "DOMINICA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "DO",
+        "countryDescTh": "สาธารณรัฐโดมินิกัน",
+        "countryDescEn": "DOMINICAN REPUBLIC",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "DZ",
+        "countryDescTh": "แอลจีเรีย",
+        "countryDescEn": "ALGERIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "EC",
+        "countryDescTh": "เอกวาดอร์",
+        "countryDescEn": "ECUADOR",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "EE",
+        "countryDescTh": "เอสโตเนีย",
+        "countryDescEn": "ESTONIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "EG",
+        "countryDescTh": "อียิปต์",
+        "countryDescEn": "EGYPT",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "EH",
+        "countryDescTh": "เวสเทิร์น ซาฮารา",
+        "countryDescEn": "WESTERN SAHARA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "ER",
+        "countryDescTh": "เอริเทรีย",
+        "countryDescEn": "ERITREA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "ES",
+        "countryDescTh": "สเปน",
+        "countryDescEn": "SPAIN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "ET",
+        "countryDescTh": "เอธิโอเปีย",
+        "countryDescEn": "ETHIOPIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "FI",
+        "countryDescTh": "ฟินแลนด์",
+        "countryDescEn": "FINLAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "FJ",
+        "countryDescTh": "ฟิจิ",
+        "countryDescEn": "FIJI",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "FK",
+        "countryDescTh": "หมู่เกาะฟอล์กแลนด์",
+        "countryDescEn": "FALKLAND ISLANDS(MALVINAS)",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "FM",
+        "countryDescTh": "ไมโครนีเซีย",
+        "countryDescEn": "MICRONESIA (FEDERATED STATES OF)",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "FO",
+        "countryDescTh": "หมู่เกาะแฟโร",
+        "countryDescEn": "FAROE ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "FR",
+        "countryDescTh": "ฝรั่งเศส",
+        "countryDescEn": "FRANCE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "GA",
+        "countryDescTh": "กาบอง",
+        "countryDescEn": "GABON",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "GB",
+        "countryDescTh": "สหราชอาณาจักร",
+        "countryDescEn": "UNITED KINGDOM",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "GD",
+        "countryDescTh": "เกรเนดา",
+        "countryDescEn": "GRENADA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:10.000"
+      },
+      {
+        "countryCode": "GE",
+        "countryDescTh": "จอร์เจีย",
+        "countryDescEn": "GEORGIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GF",
+        "countryDescTh": "เฟรนช์เกียนา",
+        "countryDescEn": "FRENCH GUIANA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GG",
+        "countryDescTh": "เกาะเกอร์นซี",
+        "countryDescEn": "GUERNSEY,C.I.",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GH",
+        "countryDescTh": "กานา",
+        "countryDescEn": "GHANA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GI",
+        "countryDescTh": "ยิบรอลตาร์",
+        "countryDescEn": "GIBRALTAR",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GL",
+        "countryDescTh": "กรีนแลนด์",
+        "countryDescEn": "GREENLAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GM",
+        "countryDescTh": "แกมเบีย",
+        "countryDescEn": "GAMBIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GN",
+        "countryDescTh": "กินี",
+        "countryDescEn": "GUINEA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GP",
+        "countryDescTh": "กวาเดอลูป",
+        "countryDescEn": "GUADELOUPE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GQ",
+        "countryDescTh": "อิเควทอเรียลกินี",
+        "countryDescEn": "EQUATORIAL GUINEA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GR",
+        "countryDescTh": "กรีซ",
+        "countryDescEn": "GREECE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GS",
+        "countryDescTh": "เกาะเซาท์ จอร์เจียและหมู่เกาะเซาท์แซนด์วิช",
+        "countryDescEn": "SOUTH GEORGIA AND SOUTH SANDWICH ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GT",
+        "countryDescTh": "กัวเตมาลา",
+        "countryDescEn": "GUATEMALA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GU",
+        "countryDescTh": "กวม",
+        "countryDescEn": "GUAM",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GW",
+        "countryDescTh": "กินีบิสเซา",
+        "countryDescEn": "GUINEA-BISSAU",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "GY",
+        "countryDescTh": "กายอานา",
+        "countryDescEn": "GUYANA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "HK",
+        "countryDescTh": "ฮ่องกง",
+        "countryDescEn": "HONG KONG",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "HM",
+        "countryDescTh": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์",
+        "countryDescEn": "HEARD AND MCDONALD ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "HN",
+        "countryDescTh": "ฮอนดูรัส",
+        "countryDescEn": "HONDURAS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "HR",
+        "countryDescTh": "โครเอเชีย",
+        "countryDescEn": "CROATIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "HT",
+        "countryDescTh": "เฮติ",
+        "countryDescEn": "HAITI",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "HU",
+        "countryDescTh": "ฮังการี",
+        "countryDescEn": "HUNGARY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "ID",
+        "countryDescTh": "อินโดนีเซีย",
+        "countryDescEn": "INDONESIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IE",
+        "countryDescTh": "ไอร์แลนด์",
+        "countryDescEn": "IRELAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IL",
+        "countryDescTh": "อิสราเอล",
+        "countryDescEn": "ISRAEL",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IM",
+        "countryDescTh": "เกาะแมน",
+        "countryDescEn": "ISLE OF MAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IN",
+        "countryDescTh": "อินเดีย",
+        "countryDescEn": "INDIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IO",
+        "countryDescTh": "บริติชอินเดียนโอเชียนเทร์ริทอรี",
+        "countryDescEn": "BRITISH INDIAN OCEAN TERRITORY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IQ",
+        "countryDescTh": "อิรัก",
+        "countryDescEn": "IRAQ",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IR",
+        "countryDescTh": "อิหร่าน",
+        "countryDescEn": "IRAN (ISLAMIC REPUBLIC OF)",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IS",
+        "countryDescTh": "ไอซ์แลนด์",
+        "countryDescEn": "ICELAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "IT",
+        "countryDescTh": "อิตาลี",
+        "countryDescEn": "ITALY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "JE",
+        "countryDescTh": "เจอซี่",
+        "countryDescEn": "JERSEY, C.I.",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "JM",
+        "countryDescTh": "จาเมกา",
+        "countryDescEn": "JAMAICA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "JO",
+        "countryDescTh": "จอร์แดน",
+        "countryDescEn": "JORDAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "JP",
+        "countryDescTh": "ญี่ปุ่น",
+        "countryDescEn": "JAPAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KE",
+        "countryDescTh": "เคนยา",
+        "countryDescEn": "KENYA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KG",
+        "countryDescTh": "คีร์กีซสถาน",
+        "countryDescEn": "KYRGYZSTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KH",
+        "countryDescTh": "กัมพูชา",
+        "countryDescEn": "CAMBODIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KI",
+        "countryDescTh": "คิริบาส, คิริบาตี",
+        "countryDescEn": "KIRIBATI",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KM",
+        "countryDescTh": "คอโมโรส",
+        "countryDescEn": "COMOROS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KN",
+        "countryDescTh": "เซนต์คิตส์และเนวิส",
+        "countryDescEn": "SAINT KITTS AND NEVIS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KP",
+        "countryDescTh": "เกาหลีเหนือ",
+        "countryDescEn": "KOREA, DEMOCRATIC PEOPLE S REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KR",
+        "countryDescTh": "เกาหลีใต้",
+        "countryDescEn": "KOREA, REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KW",
+        "countryDescTh": "คูเวต",
+        "countryDescEn": "KUWAIT",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KY",
+        "countryDescTh": "หมู่เกาะเคย์แมน",
+        "countryDescEn": "CAYMAN ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "KZ",
+        "countryDescTh": "คาซัคสถาน",
+        "countryDescEn": "KAZAKHSTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LA",
+        "countryDescTh": "ลาว",
+        "countryDescEn": "LAO PEOPLE S DEMOCRATIC REPUBLIC",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LB",
+        "countryDescTh": "เลบานอน",
+        "countryDescEn": "LEBANON",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LC",
+        "countryDescTh": "เซนต์ลูเซีย",
+        "countryDescEn": "SAINT LUCIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LI",
+        "countryDescTh": "ลิกเตนสไตน์",
+        "countryDescEn": "LIECHTENSTEIN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LK",
+        "countryDescTh": "ศรีลังกา",
+        "countryDescEn": "SRI LANKA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LR",
+        "countryDescTh": "ไลบีเรีย",
+        "countryDescEn": "LIBERIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LS",
+        "countryDescTh": "เลโซโท",
+        "countryDescEn": "LESOTHO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LT",
+        "countryDescTh": "ลิทัวเนีย",
+        "countryDescEn": "LITHUANIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LU",
+        "countryDescTh": "ลักเซมเบิร์ก",
+        "countryDescEn": "LUXEMBOURG",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LV",
+        "countryDescTh": "ลัตเวีย",
+        "countryDescEn": "LATVIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "LY",
+        "countryDescTh": "ลิเบีย",
+        "countryDescEn": "LIBYA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MA",
+        "countryDescTh": "โมร็อกโก",
+        "countryDescEn": "MOROCCO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MC",
+        "countryDescTh": "โมนาโก",
+        "countryDescEn": "MONACO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MD",
+        "countryDescTh": "มอลโดวา",
+        "countryDescEn": "MOLDOVA, REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "ME",
+        "countryDescTh": "มอนเตเนโกร",
+        "countryDescEn": "MONTENEGRO, REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "MF",
+        "countryDescTh": "เซนต์มาร์ติน",
+        "countryDescEn": "SAINT MARTIN (FRENCH PART)",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "MG",
+        "countryDescTh": "มาดากัสการ์",
+        "countryDescEn": "MADAGASCAR",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MH",
+        "countryDescTh": "หมู่เกาะมาร์แชลล์",
+        "countryDescEn": "MARSHALL ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MK",
+        "countryDescTh": "มาซิโดเนีย",
+        "countryDescEn": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "ML",
+        "countryDescTh": "มาลี",
+        "countryDescEn": "MALI",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MM",
+        "countryDescTh": "พม่า",
+        "countryDescEn": "MYANMAR",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MN",
+        "countryDescTh": "มองโกเลีย",
+        "countryDescEn": "MONGOLIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MO",
+        "countryDescTh": "มาเก๊า",
+        "countryDescEn": "MACAO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MP",
+        "countryDescTh": "หมู่เกาะนอร์เทิร์นมาเรียนา",
+        "countryDescEn": "NORTHERN MARIANA ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MQ",
+        "countryDescTh": "มาร์ตินีก",
+        "countryDescEn": "MARTINIQUE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MR",
+        "countryDescTh": "มอริเตเนีย",
+        "countryDescEn": "MAURITANIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MS",
+        "countryDescTh": "มอนต์เซอร์รัต",
+        "countryDescEn": "MONTSERRAT",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MT",
+        "countryDescTh": "มอลตา",
+        "countryDescEn": "MALTA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MU",
+        "countryDescTh": "มอริเชียส",
+        "countryDescEn": "MAURITIUS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MV",
+        "countryDescTh": "มัลดีฟส์",
+        "countryDescEn": "MALDIVES",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MW",
+        "countryDescTh": "มาลาวี",
+        "countryDescEn": "MALAWI",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MX",
+        "countryDescTh": "เม็กซิโก",
+        "countryDescEn": "MEXICO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MY",
+        "countryDescTh": "มาเลเซีย",
+        "countryDescEn": "MALAYSIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "MZ",
+        "countryDescTh": "โมซัมบิก",
+        "countryDescEn": "MOZAMBIQUE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NA",
+        "countryDescTh": "นามิเบีย",
+        "countryDescEn": "NAMIBIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NC",
+        "countryDescTh": "นิวแคลิโดเนีย, นูแวลกาเลโดนี",
+        "countryDescEn": "NEW CALEDONIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NE",
+        "countryDescTh": "ไนเจอร์",
+        "countryDescEn": "NIGER",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NF",
+        "countryDescTh": "เกาะนอร์ฟอล์ก",
+        "countryDescEn": "NORFOLK ISLAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NG",
+        "countryDescTh": "ไนจีเรีย",
+        "countryDescEn": "NIGERIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NI",
+        "countryDescTh": "นิการากัว",
+        "countryDescEn": "NICARAGUA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NL",
+        "countryDescTh": "เนเธอร์แลนด์",
+        "countryDescEn": "NETHERLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NO",
+        "countryDescTh": "นอร์เวย์",
+        "countryDescEn": "NORWAY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NP",
+        "countryDescTh": "เนปาล",
+        "countryDescEn": "NEPAL",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NR",
+        "countryDescTh": "นาอูรู",
+        "countryDescEn": "NAURU",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NU",
+        "countryDescTh": "นีอูเอ",
+        "countryDescEn": "NIUE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "NZ",
+        "countryDescTh": "นิวซีแลนด์",
+        "countryDescEn": "NEW ZEALAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "OM",
+        "countryDescTh": "โอมาน",
+        "countryDescEn": "OMAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PA",
+        "countryDescTh": "ปานามา",
+        "countryDescEn": "PANAMA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PE",
+        "countryDescTh": "เปรู",
+        "countryDescEn": "PERU",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PF",
+        "countryDescTh": "เฟรนช์โปลินีเซีย",
+        "countryDescEn": "FRENCH POLYNESIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PG",
+        "countryDescTh": "ปาปัวนิวกินี",
+        "countryDescEn": "PAPUA NEW GUINEA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PH",
+        "countryDescTh": "ฟิลิปปินส์",
+        "countryDescEn": "PHILIPPINES",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PK",
+        "countryDescTh": "ปากีสถาน",
+        "countryDescEn": "PAKISTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PL",
+        "countryDescTh": "โปแลนด์",
+        "countryDescEn": "POLAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PM",
+        "countryDescTh": "แซงปิแยร์และมีเกอลง",
+        "countryDescEn": "SAINT PIERRE AND MIQUELON",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PN",
+        "countryDescTh": "หมู่เกาะพิตแคร์น",
+        "countryDescEn": "PITCAIRN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PR",
+        "countryDescTh": "เครือรัฐเปอร์โตริโก",
+        "countryDescEn": "PUERTO RICO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PS",
+        "countryDescTh": "ปาเลสไตน์",
+        "countryDescEn": "PALESTINIAN TERRITORY, OCCUPIED",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PT",
+        "countryDescTh": "โปรตุเกส",
+        "countryDescEn": "PORTUGAL",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PW",
+        "countryDescTh": "ปาเลา",
+        "countryDescEn": "PALAU",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "PY",
+        "countryDescTh": "ปารากวัย",
+        "countryDescEn": "PARAGUAY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "QA",
+        "countryDescTh": "กาตาร์",
+        "countryDescEn": "QATAR",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "RE",
+        "countryDescTh": "เรอูนียง",
+        "countryDescEn": "REUNION",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "RO",
+        "countryDescTh": "โรมาเนีย",
+        "countryDescEn": "ROMANIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:11.000"
+      },
+      {
+        "countryCode": "RS",
+        "countryDescTh": "เซอร์เบีย",
+        "countryDescEn": "SERBIA, REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "RU",
+        "countryDescTh": "รัสเซีย",
+        "countryDescEn": "RUSSIAN FEDERATION",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "RW",
+        "countryDescTh": "รวันดา",
+        "countryDescEn": "RWANDA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SA",
+        "countryDescTh": "ซาอุดีอาระเบีย",
+        "countryDescEn": "SAUDI ARABIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SB",
+        "countryDescTh": "หมู่เกาะโซโลมอน",
+        "countryDescEn": "SOLOMON ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SC",
+        "countryDescTh": "เซเชลส์",
+        "countryDescEn": "SEYCHELLES",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SD",
+        "countryDescTh": "ซูดาน",
+        "countryDescEn": "SUDAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SE",
+        "countryDescTh": "สวีเดน",
+        "countryDescEn": "SWEDEN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SG",
+        "countryDescTh": "สิงคโปร์",
+        "countryDescEn": "SINGAPORE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SH",
+        "countryDescTh": "เซนต์เฮเลนา",
+        "countryDescEn": "SAINT HELENA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SI",
+        "countryDescTh": "สโลวีเนีย",
+        "countryDescEn": "SLOVENIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SJ",
+        "countryDescTh": "สฟาลบาร์",
+        "countryDescEn": "SVALBARD AND JAN MAYEN ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SK",
+        "countryDescTh": "สโลวาเกีย",
+        "countryDescEn": "SLOVAKIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SL",
+        "countryDescTh": "เซียร์ราลีโอน",
+        "countryDescEn": "SIERRA LEONE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SM",
+        "countryDescTh": "ซานมารีโน",
+        "countryDescEn": "SAN MARINO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SN",
+        "countryDescTh": "เซเนกัล",
+        "countryDescEn": "SENEGAL",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SO",
+        "countryDescTh": "โซมาเลีย",
+        "countryDescEn": "SOMALIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SR",
+        "countryDescTh": "ซูรินาเม",
+        "countryDescEn": "SURINAME",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SS",
+        "countryDescTh": "เซาท์ซูดาน",
+        "countryDescEn": "SOUTH SUDAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "ST",
+        "countryDescTh": "เซาตูเมและปรินซิปี",
+        "countryDescEn": "SAO TOME AND PRINCIPE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SV",
+        "countryDescTh": "เอลซัลวาดอร์",
+        "countryDescEn": "EL SALVADOR",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SX",
+        "countryDescTh": "ซินท์มาร์เทิน",
+        "countryDescEn": "SINT MAARTEN (DUTCH PART)",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SY",
+        "countryDescTh": "ซีเรีย",
+        "countryDescEn": "SYRIAN ARAB REPUBLIC",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "SZ",
+        "countryDescTh": "สวาซิแลนด์",
+        "countryDescEn": "SWAZILAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TC",
+        "countryDescTh": "หมู่เกาะเติกส์และหมู่เกาะเคคอส",
+        "countryDescEn": "TURKS AND CAICOS ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TD",
+        "countryDescTh": "ชาด",
+        "countryDescEn": "CHAD",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TF",
+        "countryDescTh": "เฟรนช์เซาเทิร์นและแอนตาร์กติกเทร์ริทอรีส์",
+        "countryDescEn": "FRENCH SOUTHERN TERRITORIES",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TG",
+        "countryDescTh": "โตโก",
+        "countryDescEn": "TOGO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TH",
+        "countryDescTh": "ไทย",
+        "countryDescEn": "THAILAND",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TJ",
+        "countryDescTh": "ทาจิกิสถาน",
+        "countryDescEn": "TAJIKISTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TK",
+        "countryDescTh": "โตเกเลา",
+        "countryDescEn": "TOKELAU",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TL",
+        "countryDescTh": "ติมอร์-เลสเต",
+        "countryDescEn": "TIMOR-LESTE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TM",
+        "countryDescTh": "เติร์กเมนิสถาน",
+        "countryDescEn": "TURKMENISTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TN",
+        "countryDescTh": "ตูนิเซีย",
+        "countryDescEn": "TUNISIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TO",
+        "countryDescTh": "ตองกา",
+        "countryDescEn": "TONGA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TR",
+        "countryDescTh": "ตุรกี",
+        "countryDescEn": "TURKEY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TT",
+        "countryDescTh": "ตรินิแดดและโตเบโก",
+        "countryDescEn": "TRINIDAD AND TOBAGO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TV",
+        "countryDescTh": "ตูวาลู",
+        "countryDescEn": "TUVALU",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TW",
+        "countryDescTh": "ไต้หวัน",
+        "countryDescEn": "TAIWAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "TZ",
+        "countryDescTh": "แทนซาเนีย",
+        "countryDescEn": "TANZANIA, UNITED REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "UA",
+        "countryDescTh": "ยูเครน",
+        "countryDescEn": "UKRAINE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "UG",
+        "countryDescTh": "ยูกันดา",
+        "countryDescEn": "UGANDA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "UM",
+        "countryDescTh": "ยูเอส ไมเนอร์",
+        "countryDescEn": "UNITED STATES MINOR OUTLYING ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "US",
+        "countryDescTh": "สหรัฐอเมริกา",
+        "countryDescEn": "UNITED STATES",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "UY",
+        "countryDescTh": "อุรุกวัย",
+        "countryDescEn": "URUGUAY",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "UZ",
+        "countryDescTh": "อุซเบกิสถาน",
+        "countryDescEn": "UZBEKISTAN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "VA",
+        "countryDescTh": "นครรัฐวาติกัน",
+        "countryDescEn": "HOLY SEE (VATICAN CITY STATE)",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "VC",
+        "countryDescTh": "เซนต์วินเซนต์ และเกรนาดีนส์",
+        "countryDescEn": "SAINT VINCENT AND THE GRENADINES",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "VE",
+        "countryDescTh": "สาธารณรัฐโบลีวาร์แห่งเวเนซุเอลา",
+        "countryDescEn": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "VG",
+        "countryDescTh": "หมู่เกาะเวอร์จินของอังกฤษ",
+        "countryDescEn": "VIRGIN ISLANDS, BRITISH",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "VI",
+        "countryDescTh": "หมู่เกาะเวอร์จินของสหรัฐอเมริกา",
+        "countryDescEn": "VIRGIN ISLANDS, U.S.",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "VN",
+        "countryDescTh": "เวียดนาม",
+        "countryDescEn": "VIET NAM",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "VU",
+        "countryDescTh": "วานูอาตู",
+        "countryDescEn": "VANUATU",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "WF",
+        "countryDescTh": "หมู่เกาะวาลลิสและหมู่เกาะฟุตูนา",
+        "countryDescEn": "WALLIS AND FUTUNA ISLANDS",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "WS",
+        "countryDescTh": "ซามัว",
+        "countryDescEn": "SAMOA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "XK",
+        "countryDescTh": "สาธารณรัฐคอซอวอ",
+        "countryDescEn": "KOSOVO",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "YE",
+        "countryDescTh": "เยเมน",
+        "countryDescEn": "YEMEN",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "YT",
+        "countryDescTh": "มายอต",
+        "countryDescEn": "MAYOTTE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "ZA",
+        "countryDescTh": "แอฟริกาใต้",
+        "countryDescEn": "SOUTH AFRICA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "ZM",
+        "countryDescTh": "แซมเบีย",
+        "countryDescEn": "ZAMBIA",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      },
+      {
+        "countryCode": "ZW",
+        "countryDescTh": "ซิมบับเว",
+        "countryDescEn": "ZIMBABWE",
+        "status": "1",
+        "lastUpdateDate": "2022-02-11T20:17:12.000"
+      }
+    ]
+  }
+}
